@@ -1,0 +1,31 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "How to use NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "server": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Byeongyusoeb/NPM.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Been",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Byeongyusoeb/NPM/issues"
+  },
+  "homepage": "https://github.com/Byeongyusoeb/NPM#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
